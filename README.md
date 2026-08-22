@@ -9,43 +9,53 @@
 ### whoami
 
 ```text
-Security student focused on web app security and reverse engineering.
+Security student focused on web application security and reverse engineering.
 I build my own tooling in Python and document what I break.
 ```
 
-- 🔭 Building offensive & defensive security tools → [security-tools](https://github.com/goufon/security-tools)
-- 📝 Writing up solved labs & challenges → [security-writeups](https://github.com/goufon/security-writeups)
-- 🌱 Learning: web exploitation (PortSwigger, Juice Shop), reversing (crackmes.one)
-- 🎯 Interests: XSS / CSRF / SSRF, network recon, binary analysis
+<table>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/python" height="18" align="center"/>&nbsp; <b>Tooling</b></td>
+    <td>Offensive &amp; defensive security tools &mdash; <a href="https://github.com/goufon/security-tools">security-tools</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/markdown" height="18" align="center"/>&nbsp; <b>Write-ups</b></td>
+    <td>Solved labs &amp; challenges &mdash; <a href="https://github.com/goufon/security-writeups">security-writeups</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/owasp" height="18" align="center"/>&nbsp; <b>Learning</b></td>
+    <td>Web exploitation &mdash; PortSwigger, OWASP Juice Shop</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/hackthebox" height="18" align="center"/>&nbsp; <b>Practice</b></td>
+    <td>Reverse engineering (crackmes.one) &middot; XSS &middot; CSRF &middot; SSRF &middot; network recon</td>
+  </tr>
+</table>
 
 ---
 
 ### Toolbox
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=gnometerminal&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-FF4040?style=for-the-badge&logo=ghidra&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+<img src="https://cdn.simpleicons.org/python" height="46" alt="Python"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/gnubash" height="46" alt="Bash"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/linux" height="46" alt="Linux"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/kalilinux" height="46" alt="Kali Linux"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker" height="46" alt="Docker"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git" height="46" alt="Git"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/wireshark" height="46" alt="Wireshark"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/burpsuite" height="46" alt="Burp Suite"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=goufon&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goufon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=goufon&theme=tokyonight&hide_border=true" alt="streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=goufon&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies" />
-
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=goufon&label=Profile+views&color=6aa9ff&style=flat" alt="views" />
 
