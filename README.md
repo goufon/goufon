@@ -39,6 +39,7 @@ I build my own tooling in Python and document what I break.
 <div align="center">
 
 <img src="https://cdn.simpleicons.org/python" height="46" alt="Python"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/cplusplus" height="46" alt="C++"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/gnubash" height="46" alt="Bash"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/linux" height="46" alt="Linux"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/kalilinux" height="46" alt="Kali Linux"/>&nbsp;&nbsp;
