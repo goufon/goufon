@@ -53,7 +53,11 @@ I build my own tooling in Python and document what I break.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=goufon&hide_border=true&background=0D1117&stroke=1F2A44&ring=6AA9FF&fire=6AA9FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=6AA9FF&sideLabels=8B98B0&dates=6E7B94&excludeDaysLabel=6E7B94" alt="streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/goufon/goufon/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/goufon/goufon/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/goufon/goufon/output/github-snake.svg" width="100%" />
+</picture>
 
 <br/><br/>
 
