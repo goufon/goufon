@@ -9,11 +9,13 @@
 ### whoami
 
 ```text
-Student · break web · reverse binaries · write-ups
+Hi, I'm a security student.
+I break web apps, take binaries apart, and build the tools I'm missing in Python, C++ and TypeScript.
+Whatever I figure out ends up as a write-up.
 
 $ whoami --skills
 security · offensive · defensive · web · reverse-engineering · linux
-python · c++ · sql · computer-science · problem-solving · focus · curiosity
+python · c++ · typescript · sql · computer-science · problem-solving · focus · curiosity
 ```
 
 <table>
