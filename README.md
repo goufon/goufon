@@ -9,6 +9,8 @@
 ### whoami
 
 ```text
+Student · break web · reverse binaries · write-ups
+
 $ whoami --skills
 security · offensive · defensive · web · reverse-engineering · linux
 python · c++ · sql · computer-science · problem-solving · focus · curiosity
