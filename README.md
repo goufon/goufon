@@ -11,6 +11,10 @@
 ```text
 Security student focused on web application security and reverse engineering.
 I build my own tooling in Python and document what I break.
+
+$ whoami --skills
+security · offensive · defensive · web · reverse-engineering
+python · c++ · computer-science · problem-solving · focus · curiosity
 ```
 
 <table>
