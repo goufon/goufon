@@ -9,7 +9,6 @@
 ### whoami
 
 ```text
-Hi, I'm a security student.
 I break web apps, take binaries apart, and build the tools I'm missing in Python.
 Whatever I figure out ends up as a write-up.
 
