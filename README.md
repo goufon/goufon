@@ -9,8 +9,9 @@
 ### whoami
 
 ```text
-Security student focused on web application security and reverse engineering.
-I build my own tooling in Python and document what I break.
+Hi, I'm a security student.
+I break web apps, take binaries apart, and build the tools I'm missing in Python.
+Whatever I figure out ends up as a write-up.
 
 $ whoami --skills
 security · offensive · defensive · web · reverse-engineering · linux
